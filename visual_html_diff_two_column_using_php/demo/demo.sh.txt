@@ -1,0 +1,1 @@
+php ../exec_html_diff.php BUL_cproject SHA_cproject > diff.html
